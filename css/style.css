@@ -1,0 +1,64 @@
+* {
+    /* color: white; */
+ }
+ html { 
+    background: url('../images/b1.jpg') no-repeat center fixed; 
+    background-size: cover;
+  }
+
+* {
+    border-radius: 15px;
+}
+
+ body {
+     background-color: rgb(236, 244, 246);
+    /* background: rgb(0 0 0 / 40%); */
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: dodgerblue;
+    text-align: center;
+    border: 4px;
+    margin: 3rem;
+    opacity: 91%;
+    background-size: cover;
+    background-repeat: no-repeat;
+     color: #f9f9f9;
+ }
+
+
+  /* targeting the H1 element by it's TAG name h1 */
+ h1 {
+ 
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    color: rgb(162, 162, 232);
+
+     font-size: 3rem;
+     font-weight: 900;
+ }
+
+ p {
+    color: grey;
+ }
+ 
+ h2 {
+    color: rgb(162, 162, 232);
+    font-weight: bold;
+     text-align: center;
+     margin-top: 10px;
+     padding-top:20px;
+ }
+ 
+  /* targeting the link (a) element by it's TAG name A */
+ a {
+     
+     text-decoration: none;
+ }
+ 
+ 
+ #links {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color:blueviolet;
+ }
