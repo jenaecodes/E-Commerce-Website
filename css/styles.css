@@ -1,3 +1,10 @@
+
+
+
+#myText {
+  color: #4292dc;
+}
+
 * {
   /* color: white; */
 }
@@ -17,14 +24,13 @@ body {
   font-weight: bold;
   text-shadow: dodgerblue;
   text-align: center;
-  border: 4px;
-  margin: 3rem;
+  border: 5px;
+  margin: 6rem;
   opacity: 75%;
   background-size: cover;
   background-repeat: no-repeat;
    color: #f9f9f9;
 }
-
 
 /* @extend display-flex; */
 display-flex, .display-flex, .display-flex-center, .signup-content, .signin-content, .social-login, .socials {
