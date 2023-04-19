@@ -1,6 +1,8 @@
-* {
-    /* color: white; */
-  }
+
+.navbar {
+  font-size: large;
+}
+
   html { 
     background: url('../images/b1.jpg') no-repeat center fixed; 
     background-size: cover;
@@ -227,5 +229,6 @@ display-flex, .display-flex, .display-flex-center, .signup-content, .signin-cont
     color: #222;
     background: #f8f8f8;
     font-weight: 400;
-    font-family: Poppins; }
+    font-family: Poppins; 
+  }
   

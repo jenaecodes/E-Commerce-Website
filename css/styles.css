@@ -1,13 +1,13 @@
 
-
+.navbar {
+  font-size: large;
+}
 
 #myText {
   color: #4292dc;
 }
 
-* {
-  /* color: white; */
-}
+
 html { 
   background: url('../images/b1.jpg') no-repeat center fixed; 
   background-size: cover;
