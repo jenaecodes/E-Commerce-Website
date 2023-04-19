@@ -1,7 +1,68 @@
+a:link {
+	color: #000000;
+}
+a:visited {
+	color: #000000;
+}
+a:hover {
+	color: #990000;text-decoration: none;font-weight: bold;
+}
+a:active {
+	color: #663300;
+}
+	
+
+
+
+
+
+.GalleryBox{
+    text-align:justify;
+    margin: 0px 0px;  
+ }
+ 
+ .GalleryBox img{
+     transition: 0.5s;
+     padding: 5px;
+     border-width:2px;
+     border-style: solid;
+     border-color: white;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.55);  
+ }
+ 
+ .GalleryBox img:hover{
+     filter: brightness(100%) saturate(130%) contrast(150%) ;
+     border-color:purple;
+      transition: 0.5s;
+     transform: scale(1.01);
+     
+ }
+ 
+ .GalleryBox p{
+     text-align:left;
+     padding-top: 10px;
+ }
+ 
+ .ProdCategory{
+     padding-top: 15px;
+ }
+ 
+ .list-group .list-group-item-action {
+   color:white;
+   font-size:1.2rem;
+   font-weight:bold;
+ background: linear-gradient(90deg, rgba(27,52,29,1) 0%, rgba(83,92,75,1) 24%, rgba(109,128,107,1) 63%, rgba(157,224,153,1) 95%);
+   text-decoration: none;
+ }
+
 
 .navbar {
-  font-size: large;
-}
+    font-size: large;
+  }
+  
+  #myText {
+    color: #4292dc;
+  }
 
   html { 
     background: url('../images/b1.jpg') no-repeat center fixed; 

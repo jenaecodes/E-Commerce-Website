@@ -1,11 +1,70 @@
 
-.navbar {
-  font-size: large;
+
+a:link {
+	color: #000000;
+}
+a:visited {
+	color: #000000;
+}
+a:hover {
+	color: #bb36a9;text-decoration: none;font-weight: bold;
+}
+a:active {
+	color: #663300;
 }
 
-#myText {
-  color: #4292dc;
-}
+
+
+.GalleryBox{
+    text-align:justify;
+    margin: 0px 0px;
+ }
+ 
+ .GalleryBox img{
+     width: 330px;
+     height: 305px;
+     margin-top: 20px;
+     transition: 0.5s;
+     padding: 10px;
+     border-width:2px;
+     border-style: solid;
+     border-color: white;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.55);  
+ }
+ 
+ .GalleryBox img:hover{
+     filter: brightness(100%) saturate(120%) contrast(120%) ;
+     border-color:purple;
+      transition: 0.5s;
+     transform: scale(1.01);
+     
+ }
+ 
+ .GalleryBox p{
+     text-align:left;
+     padding-top: 10px;
+ }
+ 
+ .ProdCategory{
+     padding-top: 15px;
+ }
+ 
+ .list-group .list-group-item-action {
+   color:white;
+   font-size:1.2rem;
+   font-weight:bold;
+ background: linear-gradient(90deg, rgba(27,52,29,1) 0%, rgba(83,92,75,1) 24%, rgba(109,128,107,1) 63%, rgba(157,224,153,1) 95%);
+   text-decoration: none;
+ }
+
+
+.navbar {
+    font-size: large;
+  }
+  
+  #myText {
+    color: #4292dc;
+  }
 
 
 html { 
@@ -24,8 +83,10 @@ body {
   font-weight: bold;
   text-shadow: dodgerblue;
   text-align: center;
-  border: 5px;
+  border: 7px;
   margin: 6rem;
+  padding-left: 45px;
+  padding-right: 45px;
   opacity: 75%;
   background-size: cover;
   background-repeat: no-repeat;
