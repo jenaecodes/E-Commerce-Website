@@ -58,9 +58,7 @@ a:active {
  }
 
 
-.navbar {
-    font-size: large;
-  }
+
   
   #myText {
     color: #4292dc;
@@ -73,7 +71,7 @@ html {
 }
 
 * {
-  border-radius: 15px;
+  border-radius: 7px;
 }
 
 body {
@@ -261,7 +259,8 @@ input[type=radio] {
 
 img {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+ }
 
 figure {
   margin: 0; }
@@ -695,6 +694,11 @@ label.valid {
           display: flex;
           padding-left: 0;
           list-style: none;
+      }
+
+      .navbar {
+        font-size: large;
+        border-radius: 0px;
       }
 
     

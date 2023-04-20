@@ -10,10 +10,6 @@ a:hover {
 a:active {
 	color: #663300;
 }
-	
-
-
-
 
 
 .GalleryBox{
@@ -80,8 +76,10 @@ a:active {
     font-weight: bold;
     text-shadow: dodgerblue;
     text-align: center;
-    border: 5px;
+    border: 7px;
     margin: 6rem;
+    padding-left: 25px;
+    padding-right: 25px;
     opacity: 75%;
     background-size: cover;
     background-repeat: no-repeat;
