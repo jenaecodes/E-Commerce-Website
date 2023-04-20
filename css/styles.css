@@ -58,13 +58,6 @@ a:active {
  }
 
 
-
-  
-  #myText {
-    color: #4292dc;
-  }
-
-
 html { 
   background: url('../images/b1.jpg') no-repeat center fixed; 
   background-size: cover;
@@ -699,6 +692,40 @@ label.valid {
       .navbar {
         font-size: large;
         border-radius: 0px;
+      }
+
+      .btn-group {
+        margin-top: -8rem;
+        margin-bottom: -20rem;
+
+      }
+
+      h2 {
+        color:#736f72;
+        font-size: 25px;
+        font-family:fantasy;
+      }
+
+      h3 {
+        color:#736f72;
+        font-size: 28px;
+        font-family:fantasy;
+      }
+
+      h4 {
+        color:#262426;
+        font-size: 38px;
+        font-family:fantasy;
+      }
+
+      ul {
+        display: inline-block;
+        padding: 0;
+        font-size: 22px;
+    }
+
+      li {
+        text-align: left;
       }
 
     
