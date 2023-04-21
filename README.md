@@ -3,7 +3,7 @@
 # Brand: "Kitchen Simply"
 
 
-<img src="images/kitchensimply.png" alt="Logo" width="300" height="280">
+<img src="images/KS.png" alt="Logo" width="300" height="280">
 
 ## About The Project
 
@@ -13,8 +13,7 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 
 - Create an intuitive flow for user experience.
 - Simple, modern aesthetic.
-- 
-- 
+- Provide an online store with checkout features.
 
 ### Built With
 
@@ -55,35 +54,36 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 2. In Pages > `product.html`:
 
 
-  ```json
-  {
-    "IsEncrypted": false,
-    "Values": {
-      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-      "OPENAI_API_KEY": "",
-      "AzureSignalRConnectionString": ""
-    },
-    "Host": {
-      "CORS": "*"
-    }
-  }
+  ```html
+<div class="row">
+<div class="col-xs-12 ProdCategory">
+</div>
+<div class="col-xs-6 col-md-3 GalleryBox">
+<a href="item.html" title="see details"><img src="images2/veg.jpg" class="img-fluid" alt="Demo picture"> </a>
   ```
-  3. `styles.css`:
+  3. In Pages > `styles.css`:
 
-  ```json
-  {
-    "IsEncrypted": false,
-    "Values": {
-      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-      "OPENAI_API_KEY": "",
-      "AzureSignalRConnectionString": ""
-    },
-    "Host": {
-      "CORS": "*"
-    }
-  }
+  ```css
+
+ .GalleryBox img {
+     /* width: 330px;
+     height: 305px; */
+     margin-top: 20px;
+     transition: 0.5s;
+     padding: 10px;
+     border-width:2px;
+     border-style: solid;
+     border-color: white;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.55);  
+ }
+ 
+ .GalleryBox img:hover {
+     filter: brightness(100%) saturate(120%) contrast(120%) ;
+     border-color:purple;
+      transition: 0.5s;
+     transform: scale(1.01);
+     
+ }
   ```
   
 
