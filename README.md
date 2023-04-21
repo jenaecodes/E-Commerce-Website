@@ -2,7 +2,7 @@
 # Brand: "Kitchen Simply"
 
 
-<img src="images/KS.png" alt="Logo" width="320" height="370">
+<img src="images/KS.png" alt="Logo" width="300" height="320">
 
 ## About The Project
 
