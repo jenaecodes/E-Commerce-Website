@@ -51,6 +51,9 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 ### Interesting Piece of HTML/CSS
 
 1. Hover Effect Over Gallery Images
+
+ <img src="images3/hover.png" alt="Pages" width="300" height="280">
+
 2. In Pages > `product.html`:
 
 
