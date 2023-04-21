@@ -87,7 +87,7 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
   ```
   
 
-  ## Screenshots Webpages
+  ## Screenshots of Webpages
 
   1. <img src="images3/1.png" alt="Pages" width="300" height="280">
 
