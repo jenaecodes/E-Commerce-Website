@@ -1,8 +1,9 @@
+
 # E-Commerce Website
 # Brand: "Kitchen Simply"
 
 
-<img src="images/KS.png" alt="Logo" width="300" height="280">
+<img src="images/kitchensimply.png" alt="Logo" width="300" height="280">
 
 ## About The Project
 
@@ -88,22 +89,22 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 
   ## Screenshots Webpages
 
-  1.
+  1. <img src="images3/1.png" alt="Pages" width="300" height="280">
 
 
-  2.
+  2. <img src="images3/2.png" alt="Pages" width="300" height="280">
 
 
-  3.
+  3. <img src="images3/3.png" alt="Pages" width="300" height="280">
 
 
-  4.
+  4. <img src="images3/4.png" alt="Pages" width="300" height="280">
 
 
-  5.
+  5. <img src="images3/5.png" alt="Pages" width="300" height="280">
 
   
-  6.
+  6. <img src="images3/6.png" alt="Pages" width="300" height="280">
 
 
 ## Contact
@@ -111,5 +112,3 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 Your Name - @jenaecodes
 
 Project Link: [https://github.com/jenaecodes/E-Commerce-Website]
-
-
