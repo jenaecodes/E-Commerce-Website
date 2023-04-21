@@ -341,7 +341,9 @@ body {
   -ms-transform: translate(-50%, -50%); }
 
 .signup {
-  margin-bottom: 150px; }
+  margin-top: -8rem;
+  margin-bottom: -4rem;
+}
 
 .signup-content {
   padding: 75px 0; }
@@ -380,8 +382,10 @@ figure {
   .form-submit:hover {
     background: #4292dc; }
 
-#signin {
-  margin-top: 16px; }
+.sign-in {
+  margin-top: -7rem;
+  margin-bottom: -4rem;
+}
 
 .signup-image-link {
   font-size: 14px;
@@ -695,8 +699,7 @@ label.valid {
       }
 
       .btn-group {
-        margin-top: -8rem;
-        margin-bottom: -20rem;
+        margin-top: 3rem;
 
       }
 
@@ -718,13 +721,13 @@ label.valid {
         font-family:fantasy;
       }
 
-      ul {
+      .bullets {
         display: inline-block;
         padding: 0;
         font-size: 22px;
     }
 
-      li {
+      .bullet {
         text-align: left;
       }
 
