@@ -64,7 +64,7 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 <div class="col-xs-6 col-md-3 GalleryBox">
 <a href="item.html" title="see details"><img src="images2/veg.jpg" class="img-fluid" alt="Demo picture"> </a>
   ```
-  3. In Pages > `styles.css`:
+  3. In CSS Folder > `styles.css`:
 
   ```css
 
