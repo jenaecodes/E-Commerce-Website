@@ -1,8 +1,9 @@
+
 # E-Commerce Website
 # Brand: "Kitchen Simply"
 
 
-<img src="images/KS.png" alt="Logo" width="300" height="280">
+<img src="images/kitchensimply.png" alt="Logo" width="300" height="280">
 
 ## About The Project
 
@@ -16,8 +17,6 @@ This is a capstone project for my Software Engineer Apprenticeship at Year Up. T
 - 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * HTML5
 * CSS3
